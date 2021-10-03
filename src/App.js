@@ -1,9 +1,10 @@
 // import logo from './logo.svg';
 import React, { Component } from 'react'
-import './App.css';
+// import './App.css';
 import "survey-react/survey.css";
 import * as Survey from "survey-react";
 import ReactDOM from 'react-dom';
+
 
 
 class App extends Component {
