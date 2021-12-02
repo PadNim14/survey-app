@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/survey-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/survey-app/static/js/main.9fa8fe73.chunk.js",
-    "main.js.map": "/survey-app/static/js/main.9fa8fe73.chunk.js.map",
-    "runtime-main.js": "/survey-app/static/js/runtime-main.53317035.js",
-    "runtime-main.js.map": "/survey-app/static/js/runtime-main.53317035.js.map",
-    "static/css/2.efc85245.chunk.css": "/survey-app/static/css/2.efc85245.chunk.css",
-    "static/js/2.0310837d.chunk.js": "/survey-app/static/js/2.0310837d.chunk.js",
-    "static/js/2.0310837d.chunk.js.map": "/survey-app/static/js/2.0310837d.chunk.js.map",
-    "static/js/3.820fc068.chunk.js": "/survey-app/static/js/3.820fc068.chunk.js",
-    "static/js/3.820fc068.chunk.js.map": "/survey-app/static/js/3.820fc068.chunk.js.map",
-    "index.html": "/survey-app/index.html",
-    "static/css/2.efc85245.chunk.css.map": "/survey-app/static/css/2.efc85245.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/survey-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.0310837d.chunk.js.LICENSE.txt": "/survey-app/static/js/2.0310837d.chunk.js.LICENSE.txt"
+    "main.css": "/survey-app-master/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/survey-app-master/static/js/main.8da261a0.chunk.js",
+    "main.js.map": "/survey-app-master/static/js/main.8da261a0.chunk.js.map",
+    "runtime-main.js": "/survey-app-master/static/js/runtime-main.34d1163f.js",
+    "runtime-main.js.map": "/survey-app-master/static/js/runtime-main.34d1163f.js.map",
+    "static/css/2.efc85245.chunk.css": "/survey-app-master/static/css/2.efc85245.chunk.css",
+    "static/js/2.ca87792d.chunk.js": "/survey-app-master/static/js/2.ca87792d.chunk.js",
+    "static/js/2.ca87792d.chunk.js.map": "/survey-app-master/static/js/2.ca87792d.chunk.js.map",
+    "static/js/3.3a64fc70.chunk.js": "/survey-app-master/static/js/3.3a64fc70.chunk.js",
+    "static/js/3.3a64fc70.chunk.js.map": "/survey-app-master/static/js/3.3a64fc70.chunk.js.map",
+    "index.html": "/survey-app-master/index.html",
+    "static/css/2.efc85245.chunk.css.map": "/survey-app-master/static/css/2.efc85245.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/survey-app-master/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ca87792d.chunk.js.LICENSE.txt": "/survey-app-master/static/js/2.ca87792d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.53317035.js",
+    "static/js/runtime-main.34d1163f.js",
     "static/css/2.efc85245.chunk.css",
-    "static/js/2.0310837d.chunk.js",
+    "static/js/2.ca87792d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9fa8fe73.chunk.js"
+    "static/js/main.8da261a0.chunk.js"
   ]
 }
